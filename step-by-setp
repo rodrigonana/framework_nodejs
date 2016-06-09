@@ -1,0 +1,6 @@
+Cria a pasta
+Criar a app.js
+npm init
+npm install express -save
+npm install -g nodemon
+*npm install mysql -save

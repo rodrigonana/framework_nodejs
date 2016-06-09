@@ -12,12 +12,12 @@ module.exports = function(){
 
 
 /*
-
 create table users(
-  id int,
+  id int NOT NULL PRIMARY KEY,
   name varchar(255),
   email varchar(255),
   `password` varchar(255)
 )
 
+INSERT INTO users VALUES(1, 'Rodrigo', 'rodrigo@spto.com', 'eJHBKJNKLnkjweFASnJ43BH34U6bTv3cNs');
 */
